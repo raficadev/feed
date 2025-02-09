@@ -1,15 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel> <!-- Conté la informació general del feed -->
         <title>Les meves notícies tecnològiques</title>
         <link>https://raficadev.github.io/feed/feed.xml</link>
         <description>Aquest és el meu feed de notícies</description>
         <language>ca</language>
+
         <item>
             <title>La tecnologia del paper higiènic</title>
             <link>https://raficadev.github.io/feed/noticia.html</link>
+            <guid isPermaLink="true">https://raficadev.github.io/feed/noticia.html</guid>
             <description>Microtransmissors Annunaki</description>
-            <pubDate>09 febrer 2025 21:00:00</pubDate>
+            <pubDate>Sun, 09 Feb 2025 21:00:00 +0100</pubDate>
         </item>
     </channel>
 </rss>
