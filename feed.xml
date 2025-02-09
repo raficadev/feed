@@ -3,7 +3,6 @@
     <channel> <!-- Informació general del feed -->
         <title>Les meves notícies tecnològiques</title>
         <link>https://raficadev.github.io/feed/feed.xml</link>
-        <atom:link href="https://raficadev.github.io/feed/feed.xml" rel="self" type="application/rss+xml" /> <!-- Autorreferencia que indica la URL exacta del feed -->
         <description>Aquest és el meu feed de notícies</description>
         <language>ca</language>
         
@@ -14,7 +13,7 @@
         <guid isPermaLink="true">https://raficadev.github.io/feed/noticia.html</guid>
         <description>Microtransmissors Annunaki</description>
         <pubDate>Sun, 09 Feb 2025 21:00:00 +0100</pubDate>
-        <author>Rafel</author>
+        <author>editor@raficadev.github.io (RaficaDev)</author>
         <category>Tecnologia</category>
         </item>
         
@@ -25,7 +24,7 @@
         <guid isPermaLink="true">https://raficadev.github.io/feed/noticia2.html</guid>
         <description>Amb la tecnologia hologràfica, els smartphones ofereixen interfícies 3D sense necessitat de pantalla física.</description>
         <pubDate>Sun, 09 Feb 2025 22:00:00 +0100</pubDate>
-        <author>Rafel</author>
+        <author>editor@raficadev.github.io (RaficaDev)</author>
         <category>Tecnologia</category>
         </item>
         
@@ -36,7 +35,7 @@
         <guid isPermaLink="true">https://raficadev.github.io/feed/noticia3.html</guid>
         <description>La intel·ligència artificial transforma sectors amb solucions innovadores que milloren processos i experiències.</description>
         <pubDate>Sun, 09 Feb 2025 22:30:00 +0100</pubDate>
-        <author>Rafel</author>
+        <author>editor@raficadev.github.io (RaficaDev)</author>
         <category>Tecnologia</category>
         </item>
     </channel>
