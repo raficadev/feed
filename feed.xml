@@ -1,17 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel> <!-- Conté la informació general del feed -->
+    <channel> <!-- Informació general del feed -->
         <title>Les meves notícies tecnològiques</title>
         <link>https://raficadev.github.io/feed/feed.xml</link>
+        <atom:link href="https://raficadev.github.io/feed/feed.xml" rel="self" type="application/rss+xml" /> <!-- Autorreferencia que indica la URL exacta del feed -->
         <description>Aquest és el meu feed de notícies</description>
         <language>ca</language>
-
+        
+        <!-- Notícia 1 -->
         <item>
-            <title>La tecnologia del paper higiènic</title>
-            <link>https://raficadev.github.io/feed/noticia.html</link>
-            <guid isPermaLink="true">https://raficadev.github.io/feed/noticia.html</guid>
-            <description>Microtransmissors Annunaki</description>
-            <pubDate>Sun, 09 Feb 2025 21:00:00 +0100</pubDate>
+        <title>La tecnologia del paper higiènic</title>
+        <link>https://raficadev.github.io/feed/noticia.html</link>
+        <guid isPermaLink="true">https://raficadev.github.io/feed/noticia.html</guid>
+        <description>Microtransmissors Annunaki</description>
+        <pubDate>Sun, 09 Feb 2025 21:00:00 +0100</pubDate>
+        <author>Rafel</author>
+        <category>Tecnologia</category>
+        </item>
+        
+        <!-- Notícia 2 -->
+        <item>
+        <title>L'arribada del smartphone hologràfic</title>
+        <link>https://raficadev.github.io/feed/noticia2.html</link>
+        <guid isPermaLink="true">https://raficadev.github.io/feed/noticia2.html</guid>
+        <description>Amb la tecnologia hologràfica, els smartphones ofereixen interfícies 3D sense necessitat de pantalla física.</description>
+        <pubDate>Sun, 09 Feb 2025 22:00:00 +0100</pubDate>
+        <author>Rafel</author>
+        <category>Tecnologia</category>
+        </item>
+        
+        <!-- Notícia 3 -->
+        <item>
+        <title>La revolució de la intel·ligència artificial</title>
+        <link>https://raficadev.github.io/feed/noticia3.html</link>
+        <guid isPermaLink="true">https://raficadev.github.io/feed/noticia3.html</guid>
+        <description>La intel·ligència artificial transforma sectors amb solucions innovadores que milloren processos i experiències.</description>
+        <pubDate>Sun, 09 Feb 2025 22:30:00 +0100</pubDate>
+        <author>Rafel</author>
+        <category>Tecnologia</category>
         </item>
     </channel>
 </rss>
