@@ -2,7 +2,7 @@
 <rss version="2.0">
     <channel> <!-- Conté la informació general del feed -->
         <title>Les meves notícies tecnològiques</title>
-        <link>https://raficadev.github.io/feed/</link>
+        <link>https://raficadev.github.io/feed/feed.xml</link>
         <description>Aquest és el meu feed de notícies</description>
         <language>ca</language>
         <item>
