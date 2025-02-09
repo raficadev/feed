@@ -2,12 +2,12 @@
 <rss version="2.0">
     <channel> <!-- Conté la informació general del feed -->
         <title>Les meves notícies tecnològiques</title>
-        <link></link>
+        <link>https://raficadev.github.io/feed/</link>
         <description>Aquest és el meu feed de notícies</description>
         <language>ca</language>
         <item>
             <title>La tecnologia del paper higiènic</title>
-            <link></link>
+            <link>https://raficadev.github.io/feed/noticia.html</link>
             <description>Microtransmissors Annunaki</description>
             <pubDate>09 febrer 2025 21:00:00</pubDate>
         </item>
